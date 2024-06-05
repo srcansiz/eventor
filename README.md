@@ -1,7 +1,6 @@
-## Event Yarat
+## Eventor
 
-Event yarat is a library to generate random events by given parameters for test purposes of micro services, 
-data pipelines. 
+Eventor is a module to generate random events by given parameters for testing micro services and pipeline over bounded or unbounded data streams
 
 ### Status
 Under development.
